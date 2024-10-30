@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with AI03 React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [Hosting App](https://ia03.vercel.app/)
 
 ## Available Scripts
 
